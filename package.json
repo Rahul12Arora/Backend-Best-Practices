@@ -1,0 +1,18 @@
+{
+  "name": "customer-portal-backend",
+  "version": "1.0.0",
+  "description": "Customer Portal Backedn 1.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "Rahul Arora",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
